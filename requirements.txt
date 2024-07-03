@@ -1,0 +1,9 @@
+llama-index
+openai
+python-dotenv
+fastapi
+langchain
+langchain-openai
+langchain-community
+llama-index-llms-ollama
+llama-index-llms-openai-like
